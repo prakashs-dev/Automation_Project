@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.TestNG_Runner.TestNG_Runner">
+        <methods>
+          <include name="home_page"/>
+          <include name="booK_hotel"/>
+          <include name="book_confirm"/>
+          <include name="select_hotel"/>
+          <include name="write_test"/>
+          <include name="search_hotel"/>
+          <include name="Configuration"/>
+          <include name="browser_launch"/>
+          <include name="Browser_Close"/>
+        </methods>
+      </class> <!-- org.TestNG_Runner.TestNG_Runner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

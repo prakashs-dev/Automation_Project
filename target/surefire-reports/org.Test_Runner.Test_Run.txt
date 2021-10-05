@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.Test_Runner.Test_Run
+-------------------------------------------------------------------------------
+Tests run: 40, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.985 s - in org.Test_Runner.Test_Run
